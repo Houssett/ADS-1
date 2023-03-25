@@ -23,7 +23,7 @@ while (k != n) {
   for (int i = 2; i < num; i++)
     if (num % i == 0) {
       flag = 1
-        break;
+      break;
 }
 if (flag == 0) k++;
 }
